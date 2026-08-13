@@ -1,8 +1,8 @@
 import React from "react";
-import LoginStatus from "./LoginStatus";
+import LoginStatus from "./Loginstatus";
 
 function App() {
-return <LoginStatus />;
+return <LoginStatus/>;
 }
 
 export default App;
